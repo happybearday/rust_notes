@@ -20,11 +20,6 @@ $ ./main
 Hello, world!
 ```
 
-### Notes
-
-a Macro ends by "!", a function does not.
-An instruction ends by ";".
-
 ### Cargo
 
 Project Manager
@@ -32,7 +27,7 @@ Project Manager
 **Create project with Cargo**
 
 ```bash
-$ cargo new hello_cargo
+$ cargo new hello_cargo --bin
 $ cd hello_cargo
 ```
 
@@ -216,6 +211,9 @@ let a = [3; 5]; // [3, 3, 3, 3, 3]
 ```
 
 ### Functions
+
+a Macro ends by "!", a function does not.
+An instruction ends by ";".
 
 ```rust
 
