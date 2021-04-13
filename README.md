@@ -212,8 +212,9 @@ let a = [3; 5]; // [3, 3, 3, 3, 3]
 
 ### Functions
 
-a Macro ends by "!", a function does not.
+A macro ends by "!", a function does not.
 An instruction ends by ";".
+if a function returns nothing, it returns empty tuple.
 
 ```rust
 
