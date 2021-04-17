@@ -326,3 +326,5 @@ for number in (1..4).rev() {// rev : Reverse
 [Rust By Example](https://doc.rust-lang.org/rust-by-example/ "Next one")
 
 [Youtube Playlist by Tensor Programming ](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW)
+
+[Rust Playground](https://play.rust-lang.org/ "Test Here")
